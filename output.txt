@@ -1,0 +1,28 @@
+Number of words: 77986
+Character counts:
+Number of p is : 6121 times
+Number of r is : 20818 times
+Number of o is : 25225 times
+Number of j is : 504 times
+Number of e is : 46043 times
+Number of c is : 9243 times
+Number of t is : 30365 times
+Number of g is : 5974 times
+Number of u is : 10407 times
+Number of n is : 24367 times
+Number of b is : 5026 times
+Number of s is : 21155 times
+Number of f is : 8731 times
+Number of a is : 26743 times
+Number of k is : 1755 times
+Number of i is : 24613 times
+Number of y is : 7914 times
+Number of m is : 10604 times
+Number of w is : 7638 times
+Number of l is : 12739 times
+Number of d is : 16863 times
+Number of h is : 19725 times
+Number of v is : 3833 times
+Number of z is : 243 times
+Number of x is : 677 times
+Number of q is : 324 times
